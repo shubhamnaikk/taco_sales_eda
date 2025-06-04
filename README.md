@@ -1,5 +1,7 @@
 # Taco Sales EDA Project
 
+![Taco Sales EDA](image.png)
+
 ## Project Overview
 
 This repository contains an end-to-end exploratory data analysis (EDA) of a synthetic taco sales dataset spanning January 2024 through May 2025. The goal is to understand order patterns, delivery performance, pricing and tipping behaviors, and restaurant/city-level insights.
