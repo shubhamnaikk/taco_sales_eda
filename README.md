@@ -60,7 +60,6 @@ Key deliverables:
 * **Univariate & Bivariate Analysis**: Histograms, bar charts, and boxplots explore distributional properties of delivery time, price, tip, toppings, and categorical breakdowns (size, type, weekend vs. weekday).
 * **Time Series Analysis**: Daily, weekly, and monthly order volume trends are visualized to reveal seasonality.
 * **Advanced Deep Dives**: Includes speed categories by restaurant, tip percentage analyses, and average delivery duration over hours of day.
-* **Report Generation**: After running the notebook, key figures are saved to `figures/` and a concise markdown report `reports/taco_eda_report.md` provides a narrative of insights and recommendations.
 
 ## Dependencies
 
